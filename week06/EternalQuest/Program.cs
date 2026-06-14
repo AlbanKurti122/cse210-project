@@ -2,6 +2,11 @@ using System;
 
 class Program
 {
+     // Creativity:
+    // Added a persistent scoring system with Save/Load.
+   // Users can level up based on points (future extension idea).
+  // Checklist goals track progress automatically.
+ // Eternal goals encourage long-term habits.
     static void Main(string[] args)
     {
         GoalManager manager = new GoalManager();
